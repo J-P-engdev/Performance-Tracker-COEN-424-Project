@@ -2,7 +2,7 @@
 This project represents an performance tracking API that is deployed on the cloud in the scope of the COEN424 project.
 
 ## Members
--Jean-Philippe Forget
--Vernon Lim
--Sherief Soliman
--Salem Maraouch
+* Jean-Philippe Forget
+* Vernon Lim
+* Sherief Soliman
+* Salem Maraouch
