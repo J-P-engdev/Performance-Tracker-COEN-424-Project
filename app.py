@@ -49,7 +49,7 @@ except Exception as e:
 
 # to get a string like this run:
 # openssl rand -hex 32
-SECRET_KEY = "508ea2eb377c205bd0e39ddfd287377a3c94b3907c3073878326fe8592a048ef"
+SECRET_KEY = "Hash key"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
